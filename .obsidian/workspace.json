@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc158d7e623f7bf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes/Open Systems Interconnection Specifications (OSI).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/Introduction to Networks.md",
+                "file": "Redes/Open Systems Interconnection Specifications (OSI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/Introduction to Networks.md",
+                "file": "Redes/Open Systems Interconnection Specifications (OSI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/Introduction to Networks.md"
+                "file": "Redes/Open Systems Interconnection Specifications (OSI).md"
               }
             }
           }
@@ -146,9 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ce134ca96b4627f",
+  "active": "dc158d7e623f7bf1",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Redes/Introduction to Networks.md",
+    "Redes/Open Systems Interconnection Specifications (OSI).md",
+    "Pasted image 20240216154611.png",
+    "Pasted image 20240216143620.png",
+    "Pasted image 20240216134046.png",
+    "Pasted image 20240216113828.png",
+    "Pasted image 20240216113555.png",
+    "Pasted image 20240216113225.png",
+    "Pasted image 20240216113208.png",
+    "Pasted image 20240216113153.png",
+    "Pasted image 20240216113141.png",
+    "Pasted image 20240216113118.png",
     "Introduction to Networks.md"
   ]
 }

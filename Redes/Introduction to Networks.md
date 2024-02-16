@@ -53,5 +53,68 @@ Network significa uma rede, conjunto de computadores conectados que transferem d
 - Usado quando não é necessário implementar segurança e quando o número de usuários é baixo
 - Difícil de administrar
 #### Client/Server Networks
-- Possui um server principal onde todos os computadores acessam 
+- Possui um server principal onde todos os computadores acessam
 - Rede mais organizada
+## Physical Network Topologies
+- Topologias de rede física significa como o mapa da rede é feita, como os dispositivos são organizados fisicamente na rede
+- Topologia vem de top, imagine uma rede vista de cima
+- Existe diferentes tipos de topologia:
+	- Bus
+	- Star
+	- Ring
+	- Mesh
+	- Point-to-point
+	- Point-to-multipoint
+	- Hybrid
+#### Bus Topology
+- Todos os dispositivos estão conectados no mesmo cabo
+- Fácil de instalar e barato
+- Difícil de resolver erro
+- Fault tolerance baixa
+![[Pasted image 20240216113225.png]]
+#### Star Topology
+- Todos os dispositivos estão conectados ao um Hub central com cabos próprios
+- Fácil de resolver falhas
+- Se um cabo falhar não vai influenciar a rede por inteira como na topologia bus
+- Mais caro
+- São configurados com conexões point-to-point
+ ![[Pasted image 20240216113208.png]]
+#### Ring Topology
+- Parecido com a topologia bus
+- Todos os dispositivos estão conectados a dois dispositivos, o anterior e o posterior
+- Formato de círculo
+- Não é mais utilizados em LANs porém é usado em algumas WANs
+![[Pasted image 20240216113153.png]]
+#### Mesh Topology
+- Maior quantidade de cabos de todas as topologias pois todos os dispositivos se conectam com todos igual na topologia bus porém ao invés de usar um cabo utiliza-se vários 
+- Se em uma sala contém 10 computadores, são 45 cabos para conecta-los (n(n-1)/2)
+- Complicado de gerenciar
+- Não é mais utilizada em LANs
+- Fault tolerance alta
+- No partial mesh, não são todos os dispositivos que serão conectados um com o outro, diferente do full mesh
+![[Pasted image 20240216113141.png]]
+#### Point-to-Point Topology
+- Apenas um caminho de comunicação entre dois dispositivos
+- Não é escalável 
+- Mais utilizado para fazer o link das WANs
+![[Pasted image 20240216113118.png]]
+#### Point-to-Multipoint Topology
+- Um ponto de acesso que transmite dados para vários dispositivos
+- Pode ser via wifi ou cabo
+![[Pasted image 20240216113555.png]]
+
+#### Hybrid Topology
+- Combinação de dois ou mais tipos de topologias físicas ou lógicas na mesma rede
+- Na imagem é um hub na topologia estrela que conecta com os computadores na topologia bus
+![[Pasted image 20240216113828.png]]
+## Topology Selection, Backbones and Segments
+#### Selecting the Rigth Topology
+- Qual o orçamento?
+- Qual a fault tolerance que precisa?
+- Precisa ser configurada rapidamente?
+- O quão escalável precisa ser?
+#### The Network Backbones and Segments
+A rede é dividida em seguimentos e backbones, os backbones é a estrutura da rede que junta todos os seguimentos
+![[Pasted image 20240216134046.png]]
+
+
