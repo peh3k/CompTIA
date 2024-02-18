@@ -89,5 +89,69 @@ Dependendo do cabo e a distância que os dados deverão percorrer pode haver per
 #### Frequency
 Cada capo tem uma frequência específica, por exemplo Cat 5e  tem 100MHz e o Cat 6 tem 250MHz
 - Os sinais são medidos em bandwidth (largura de banda) que é o mesmo que a frequência da mesma
+## Wiring Standards
+- Cabos ethernet é importante saber principalmente para trabalhar com redes LAN
+- Alguns tipos desse cabo:
+	- Straight-through cable (586A)
+	- Crossover cable (586B)
+	- Rolled cable (rollover)
+	- Hardware loopback
+#### 586A vs. 586B
+- As posições dos pares são diferentes na saída do cabo
+- Ambos possuem quatro pares de fio trançado
+#### Straight-Through Cable
+- Usado para conectar um host ou roteador em um switch ou hub
+- Usado quatro fios
+![[Pasted image 20240218124100.png]]
+#### Crossover Cable
+- Cabo UTP
+- Usado quatro fios
+- Pode conectar:
+	- Switch to switch
+	- Hub to hub
+	- Host to host
+	- Hub to switch
+	- Router to host
+	![[Pasted image 20240218124332.png]]
+	
+#### Rollover Cable
+- Usado para conectar um host a um roteador
+- Usado oito fios
+![[Pasted image 20240218124650.png]]
+- Esse é um cabo simples de fazer pois basta pegar os fios e inverete-los
+#### Hardware Loopback
+- Não é considerado bem um tipo padrão de cabo pois ele só redireciona os dados
+- É usado para testar as funcionalidades das portas de comunicação
+- Bastante usado para saber se um NIC está funcionando
+## Installing Wiring Distributions
+#### Vertical and Horizontal Cross-Connects
+- Um cross-connect é um lugar central onde estão todos os cabos juntos
+- Horizontal cross-connect são os cabos que saem do centro de comunicação até as tomadas pois normalmente são usados no mesmo andar
+- Vertical cross-connect são usados para conectar salas diferentes por exemplo
+
+#### Patch Panels
+- É um rack que conecta os cabos
+- Usado para melhor administração dos cabos
+![[Pasted image 20240218131804.png]]
+#### 66 Block
+- É um tipo de patch panel
+- Hoje em dia é mais usado e instalações telefônicas
+![[Pasted image 20240218131924.png]]
+#### MDF/IDF
+- Main distribution frame
+- Centro de distribuição de cabos
+- Geralmente junta os sinais de telecomunicações
+#### 25 Pair
+- Constituído de 25 pares de fios
+- Usado em cabos de telefonia
+- Usado como cabo de alimentação
+#### 100 Pair
+- Usados para instalações telefônicas robustas
+- 100 parede de fios
+#### 110 Block
+- Desde 25 até 500 pares de fios
+#### Smart Jack
+- Também chamado de network interface device (NID)
+- Interface usada entre o provedor de serviço e a rede interna
 
 
