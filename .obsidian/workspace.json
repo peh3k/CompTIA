@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Open Systems Interconnection Specifications (OSI).md",
+                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/Open Systems Interconnection Specifications (OSI).md",
+                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/Open Systems Interconnection Specifications (OSI).md",
+                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/Open Systems Interconnection Specifications (OSI).md"
+                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md"
               }
             }
           }
@@ -162,18 +162,20 @@
   },
   "active": "dc158d7e623f7bf1",
   "lastOpenFiles": [
-    "Redes/Introduction to Networks.md",
+    "Pasted image 20240217222454.png",
+    "Pasted image 20240217222206.png",
+    "Pasted image 20240217222200.png",
+    "Pasted image 20240217221655.png",
+    "Pasted image 20240217221641.png",
+    "Pasted image 20240217213731.png",
+    "Pasted image 20240217213251.png",
+    "Pasted image 20240217210118.png",
+    "Pasted image 20240217210109.png",
     "Redes/Open Systems Interconnection Specifications (OSI).md",
+    "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
+    "Redes/Introduction to Networks.md",
     "Pasted image 20240216154611.png",
     "Pasted image 20240216143620.png",
-    "Pasted image 20240216134046.png",
-    "Pasted image 20240216113828.png",
-    "Pasted image 20240216113555.png",
-    "Pasted image 20240216113225.png",
-    "Pasted image 20240216113208.png",
-    "Pasted image 20240216113153.png",
-    "Pasted image 20240216113141.png",
-    "Pasted image 20240216113118.png",
     "Introduction to Networks.md"
   ]
 }
