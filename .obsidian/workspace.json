@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "4292920cda0824ce",
+        "id": "7fa3c654325de66a",
         "type": "tabs",
         "children": [
           {
-            "id": "7ce134ca96b4627f",
+            "id": "890d98b3983ad11b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Introduction to Networks.md",
+                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dc158d7e623f7bf1",
+            "id": "521806709480c7a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
+                "file": "Current Ethernet Specifications.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
+                "file": "Current Ethernet Specifications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
+                "file": "Current Ethernet Specifications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md"
+                "file": "Current Ethernet Specifications.md"
               }
             }
           }
@@ -160,8 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc158d7e623f7bf1",
+  "active": "521806709480c7a1",
   "lastOpenFiles": [
+    "Pasted image 20240219143959.png",
+    "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
+    "Current Ethernet Specifications.md",
+    "Redes/Introduction to Networks.md",
+    "Redes/Open Systems Interconnection Specifications (OSI).md",
     "Pasted image 20240218131924.png",
     "Pasted image 20240218131804.png",
     "Pasted image 20240218124650.png",
@@ -172,10 +177,6 @@
     "Pasted image 20240217222200.png",
     "Pasted image 20240217221655.png",
     "Pasted image 20240217221641.png",
-    "Pasted image 20240217213731.png",
-    "Redes/Open Systems Interconnection Specifications (OSI).md",
-    "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
-    "Redes/Introduction to Networks.md",
     "Introduction to Networks.md"
   ]
 }
