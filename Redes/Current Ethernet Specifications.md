@@ -54,4 +54,21 @@ Basicamente na mesma rede o host A não sabe o endereço IP nem o endereço MAC 
 ## Ethernet Addressing
 - Endereçamento de funciona como MAC(Media Access Control) codificado diretamente no NIC
 - O endereço MAC possui 48 bits (6 bytes) porém escrito em hexadecimal
-- O endereço MAC é divido em dois, tendo 24 bits de um lado e 24 de outro, o primeiro lado de 24 bits é o OUI(organizationally unique identifier), que é um número único de 24 bits
+- O endereço MAC é divido em dois, tendo 24 bits de um lado e 24 de outro, o primeiro lado de 24 bits é o OUI(organizationally unique identifier), que é o fabricante e o segundo lado é o número de série do dispositivo desse fabricante. Levando em consideração o MAC 00:1A:2B:3C:4D:5E, a primeira parte (24 bits) são os três primeiros octetos pois cada caractere é um nibble (4 bits), logo os três primeiros octetos são 00:1A:2B, se cada caractere é 4 bits então 8 são 24 bits, esse primeiro grupo determina o fabricante da placa de rede, já os demais, os outros três octetos, 3C:4D:5E é o serial único do dispositivo propriamente dito
+## Ethernet Frames
+- A camada de enlace é responsável por combinar bits em bytes e converter esses bytes em frames
+- Os frames servem para encapsular pacotes
+- Os frames são passados através das estações de Ethernet em um grupo de bits igual o formato do endereço MAC, isso proporciona detecção de erros CRC (cyclic redundancy check)
+![[Pasted image 20240219221510.png]]
+- Preamble: Composto por 7 bytes mais 1 byte final para sincronizar o clock do emissor e receptor
+- DA(destination Address): Endereço MAC de destino, 6 bytes ou 48 bits
+- SA(source address): Endereço MAC da origem, também 48 bits por o endereço MAC é composto por 48 bits
+- Lenght: Indica o tipo de protocolo usado na camada superior, que é a camada de rede, o valor 0x0800 indica um protocolo IPv4 por exemplo
+- Data: Carrega os pacotes enviados pela camada de rede, os pacotes podem variar de 64 a 1500 bytes e são pacotes do tipo IP, ICMP, ARP etc
+- Frame Check Sequence (FSC): Um espeço na última posição do frame que guarda o CRC
+Tipo de frame Ethernet II usando o protocolo IP
+![[Pasted image 20240219223647.png]]
+## Channel Bonding / link aggregation
+É um arranjo de redes de computadores para gerar redundância
+Nesse caso é usado dois cabos para cada caso um falhar terá outro
+![[Pasted image 20240219225045.png]]

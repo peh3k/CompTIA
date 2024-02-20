@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Ethernet Specifications.md",
+                "file": "Redes/Current Ethernet Specifications.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Ethernet Specifications.md",
+                "file": "Redes/Current Ethernet Specifications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current Ethernet Specifications.md",
+                "file": "Redes/Current Ethernet Specifications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current Ethernet Specifications.md"
+                "file": "Redes/Current Ethernet Specifications.md"
               }
             }
           }
@@ -162,11 +162,14 @@
   },
   "active": "521806709480c7a1",
   "lastOpenFiles": [
+    "Pasted image 20240219225045.png",
+    "Pasted image 20240219223647.png",
+    "Pasted image 20240219221510.png",
+    "Redes/Open Systems Interconnection Specifications (OSI).md",
+    "Redes/Current Ethernet Specifications.md",
     "Pasted image 20240219143959.png",
     "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
-    "Current Ethernet Specifications.md",
     "Redes/Introduction to Networks.md",
-    "Redes/Open Systems Interconnection Specifications (OSI).md",
     "Pasted image 20240218131924.png",
     "Pasted image 20240218131804.png",
     "Pasted image 20240218124650.png",
@@ -174,9 +177,6 @@
     "Pasted image 20240218124100.png",
     "Pasted image 20240217222454.png",
     "Pasted image 20240217222206.png",
-    "Pasted image 20240217222200.png",
-    "Pasted image 20240217221655.png",
-    "Pasted image 20240217221641.png",
     "Introduction to Networks.md"
   ]
 }
