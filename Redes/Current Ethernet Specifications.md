@@ -69,6 +69,18 @@ Basicamente na mesma rede o host A não sabe o endereço IP nem o endereço MAC 
 Tipo de frame Ethernet II usando o protocolo IP
 ![[Pasted image 20240219223647.png]]
 ## Channel Bonding / link aggregation
-É um arranjo de redes de computadores para gerar redundância
+É um arranjo de redes de computadores para gerar redundância e maior velocidade
 Nesse caso é usado dois cabos para cada caso um falhar terá outro
 ![[Pasted image 20240219225045.png]]
+## Ethernet at the Physical Layer
+- Antigamente tinha a ethernet 802.3, esse número refere-se ao padrão ethernet, tem velocidade de 10Mbps
+- A IEEE(Institutos de engenheiros e eletricistas e eletrônicos) fizeram o "upgrade" do padrão 802.3 para o 802.3u(fast ethernet) e o 802.3ab(gigabit ethernet de categoria 5+) e por último 802.3ae(10Gbps em fibra óptica e cabos coaxiais)
+Especificações da ethernet na camada física
+![[Pasted image 20240220094947.png]]
+- A EIA/TIA criou a especificação para a ethernet na camada física
+- A especificação consiste em usar o cabo RJ (registered jack) em cabos UTP, que são os RJ-45, ou um conector modular de 8 pinos
+- Cada cabo ethernet tem uma especificação na qual é levado em consideração a perda de sinais que é medido em decibéis (dB)
+![[Pasted image 20240220142920.png]]
+![[Pasted image 20240220142943.png]]
+![[Pasted image 20240220142959.png]]
+![[Pasted image 20240220143008.png]]
