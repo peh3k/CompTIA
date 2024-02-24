@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e4b417cfabc08085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redes/Introduction to Internet Protocol (IP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1dd27301bdfa6624",
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/Introduction to Internet Protocol (IP).md",
+                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/Introduction to Internet Protocol (IP).md",
+                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/Introduction to Internet Protocol (IP).md"
+                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md"
               }
             }
           }
@@ -174,20 +160,22 @@
   },
   "active": "5fb280632850ae9e",
   "lastOpenFiles": [
-    "Redes/Network Devices.md",
+    "Imagens Redes/Pasted image 20240216113112.png",
+    "Imagens Redes/Pasted image 20240216113118.png",
     "Redes/Introduction to Internet Protocol (IP).md",
+    "Imagens Redes",
+    "Redes/Network Devices.md",
     "Redes/Current Ethernet Specifications.md",
     "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
-    "Pasted image 20240222205444.png",
-    "Pasted image 20240221104021.png",
-    "Pasted image 20240221103340.png",
-    "Pasted image 20240221102746.png",
-    "Pasted image 20240221095056.png",
-    "Pasted image 20240220143008.png",
-    "Pasted image 20240220142959.png",
-    "Pasted image 20240220142943.png",
-    "Pasted image 20240220142920.png",
-    "Pasted image 20240220094947.png",
+    "Imagens Redes/Pasted image 20240222205444.png",
+    "Imagens Redes/Pasted image 20240221104021.png",
+    "Imagens Redes/Pasted image 20240221103340.png",
+    "Imagens Redes/Pasted image 20240221102746.png",
+    "Imagens Redes/Pasted image 20240221095056.png",
+    "Imagens Redes/Pasted image 20240220143008.png",
+    "Imagens Redes/Pasted image 20240220142959.png",
+    "Imagens Redes/Pasted image 20240220142943.png",
+    "Imagens Redes/Pasted image 20240220142920.png",
     "Imagens",
     "Redes/Open Systems Interconnection Specifications (OSI).md",
     "Redes/Introduction to Networks.md",
