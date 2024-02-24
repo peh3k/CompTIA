@@ -4,28 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "7fa3c654325de66a",
+        "id": "7bce68a84d70ee47",
         "type": "tabs",
+        "dimension": 35.055643879173296,
         "children": [
           {
-            "id": "890d98b3983ad11b",
+            "id": "1ab9491196e01bea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
-                "mode": "source",
-                "source": false
+                "file": "Redes/Material Estudo Redes/CompTIA.Network+.N10-004.pdf"
               }
             }
           },
           {
-            "id": "521806709480c7a1",
+            "id": "7dde6edef4f41a33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Network Devices.md",
+                "file": "Redes/Anotações Redes/Introduction to Internet Protocol (IP).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "82ca00388895108e",
+        "type": "tabs",
+        "dimension": 64.94435612082671,
+        "children": [
+          {
+            "id": "f145c89703053d7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes/Anotações Redes/Introduction to Internet Protocol (IP).md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1dd27301bdfa6624",
@@ -97,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
+                "file": "Redes/Material Estudo Redes/CompTIA.Network+.N10-004.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
+                "file": "Redes/Material Estudo Redes/CompTIA.Network+.N10-004.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/Networking Topologies, Connectors, and Wiring Standards.md"
+                "file": "Redes/Material Estudo Redes/CompTIA.Network+.N10-004.pdf"
               }
             }
           }
@@ -158,27 +177,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fb280632850ae9e",
+  "active": "1ab9491196e01bea",
   "lastOpenFiles": [
-    "Imagens Redes/Pasted image 20240216113112.png",
-    "Imagens Redes/Pasted image 20240216113118.png",
-    "Redes/Introduction to Internet Protocol (IP).md",
-    "Imagens Redes",
-    "Redes/Network Devices.md",
-    "Redes/Current Ethernet Specifications.md",
-    "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
-    "Imagens Redes/Pasted image 20240222205444.png",
-    "Imagens Redes/Pasted image 20240221104021.png",
-    "Imagens Redes/Pasted image 20240221103340.png",
-    "Imagens Redes/Pasted image 20240221102746.png",
-    "Imagens Redes/Pasted image 20240221095056.png",
-    "Imagens Redes/Pasted image 20240220143008.png",
-    "Imagens Redes/Pasted image 20240220142959.png",
-    "Imagens Redes/Pasted image 20240220142943.png",
-    "Imagens Redes/Pasted image 20240220142920.png",
+    "Redes/Anotações Redes/Introduction to Internet Protocol (IP).md",
+    "Redes/Anotações Redes/Current Ethernet Specifications.md",
+    "Redes/Material Estudo Redes/CompTIA.Network+.N10-004.pdf",
+    "Redes/Anotações Redes/Introduction to Networks.md",
+    "Redes/Material Estudo Redes/QUENTIN DOCTER - COMPTIA A+ COMPLETE study GUIDE core 1 exam 220-1101 and core 2 exam 220-1102 (books-here.com).pdf",
+    "Redes/Anotações Redes/Open Systems Interconnection Specifications (OSI).md",
+    "Redes/Anotações Redes",
+    "Redes/Anotações Redes/Networking Topologies, Connectors, and Wiring Standards.md",
+    "Redes/Anotações Redes/Network Devices.md",
+    "Redes/Material Estudo Redes",
+    "Redes/Imagens Redes/Pasted image 20240216113112.png",
+    "Redes/Imagens Redes/Pasted image 20240216113118.png",
+    "Redes/Imagens Redes",
+    "Redes/Imagens Redes/Pasted image 20240222205444.png",
+    "Redes/Imagens Redes/Pasted image 20240221104021.png",
+    "Redes/Imagens Redes/Pasted image 20240221103340.png",
+    "Redes/Imagens Redes/Pasted image 20240221102746.png",
+    "Redes/Imagens Redes/Pasted image 20240221095056.png",
+    "Redes/Imagens Redes/Pasted image 20240220143008.png",
+    "Redes/Imagens Redes/Pasted image 20240220142959.png",
+    "Redes/Imagens Redes/Pasted image 20240220142943.png",
     "Imagens",
-    "Redes/Open Systems Interconnection Specifications (OSI).md",
-    "Redes/Introduction to Networks.md",
     "Introduction to Networks.md"
   ]
 }
