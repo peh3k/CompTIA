@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4b417cfabc08085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes/Introduction to Internet Protocol (IP).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/Network Devices.md",
+                "file": "Redes/Introduction to Internet Protocol (IP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/Network Devices.md",
+                "file": "Redes/Introduction to Internet Protocol (IP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/Network Devices.md"
+                "file": "Redes/Introduction to Internet Protocol (IP).md"
               }
             }
           }
@@ -160,11 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "521806709480c7a1",
+  "active": "5fb280632850ae9e",
   "lastOpenFiles": [
+    "Redes/Network Devices.md",
+    "Redes/Introduction to Internet Protocol (IP).md",
     "Redes/Current Ethernet Specifications.md",
     "Redes/Networking Topologies, Connectors, and Wiring Standards.md",
-    "Redes/Network Devices.md",
     "Pasted image 20240222205444.png",
     "Pasted image 20240221104021.png",
     "Pasted image 20240221103340.png",
