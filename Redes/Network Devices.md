@@ -138,6 +138,13 @@
 - Routers são switches
 - Cada porta de um switch é um colision domain porém os switches tem somente um broadcast domain enquanto o router possui vários broadcast domain
 - Switch usa tecnologia bridge para separar esses colision domains
+## Switches and Bridges at the Data Link Layer
+- Switches da camada de enlace usam um hardware específico chamado application-specific integrated circuit (ASIC)
+- ASICs podem ter velocidades grandes e pouca latência
+- Latência é o tempo em que um frame entra em uma porta e sai em outra
+- ASICs salvam a localização dos hosts
+- Transparent bridging é o nome que se da quando um frame é mandado para outro seguimento da rede em específico
+
 
 
 
