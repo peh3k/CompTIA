@@ -72,7 +72,41 @@ O transmission Control Protocol/Internet Protocol (TCP/IP) foi criado pelo depar
 #### Hypertext Transfer Protocol Secure(HTTPS)
 - Pode ser escrito como SHTTP ou S-HTTP também
 - Implemente segurança de criptografia e outras ferramentas de segurança entre o browser e o servidor web
+#### Network Time Protocol (NTP)
+- Protocolo que lida com o relógio das transferências afim de manter os dispositivos sincronizados pois existem protocolos que precisam estar perfeitamente alinhados para funcionar
+#### Network News Transfer Protocol (NNTP)
+- Transferência de notícias
+- É pouco utilizado nos dias de hoje
+#### Secure Copy Protocol (SCP)
+- Faz o mesmo que o SFTP
+- SFTP é mais utilizado
+#### Lightweight Directory Access Protocol (LDAP)
+- Forma de armazenar dados de forma hierárquica
+- Armazena usuários, grupos ou dispositivos
+#### Internet Group Management Protocol (IGMP)
+- Gerenciar IPs sessões de grupo
+- Hosts podem pertencer a um grupo, o IGMP é responsável por enviar mensagens aos hosts para descobrir a que grupos cada um pertence usando o protocolo IGMP
+#### Line Printer Remote (LPR)
+- Trabalha em conjunto com o LPD
+- Envia dados do host para a rede da impressora usando o protocolo LPR
+#### Domain Name Service (DNS)
+- Resolve hostnames
 
+Dynamic Host Configuration  Protocol (DHCP)
+- Atribui IP, subnet, máscara, domínio, gateway padrão e DNS aos hosts que se conectam a ele
+
+## Host-to-Host Layer Protocols
+- Resumindo essa camada serve para pegar os dados da camada de aplicação e preparar para a camada de rede
+- Possui dois protocolos
+	- TCP
+	- UDP
+#### Transmission Control Protocol (TCP)
+- Pega blocos grandes de informações da camada de aplicação e quebra em segmentos
+- Antes do emissor enviar os seguimentos para o receptor, ambos precisam iniciar uma sessão remota
+- TCP é full-duplex, confiável e preciso
+- Assim que os segmentos de dados chegam na camada de rede, a camada de rede transforma em pacotes e envia para o destinatário
+- Informa porta de destino e de origem, dados, janela, etc
+![[Pasted image 20240228213503.png]]
 
 
 
