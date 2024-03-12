@@ -108,8 +108,36 @@ Dynamic Host Configuration  Protocol (DHCP)
 - Informa porta de destino e de origem, dados, janela, etc
 ![[Pasted image 20240228213503.png]]
 
-
-
+## User Datagram Protocol (UDP)
+- A mesma coisa que TCP porem não fornece os mesmos recursos, é uma versão leve do TCP
+- Usa menos banda de internet e mais rápido
+- UDP não se importa com as ordens de envios de segmentos e após manda-lo, ele não verifica se chegou, ele apenas manda
+- UDP deixa a aplicação escolher como deverá usa-lo, já que ele não tem "regras"
+- Connectionless, pois não forma um circuito virtual, diferente do TCP
+![[Pasted image 20240311215958.png]]
+## Key Concepts of Host-to-Host Protocols
+![[Pasted image 20240311220458.png]]
+## Port Numbers
+- TCP e UDP se comunicam com as outas camadas através de portas
+- Cada porta roda um serviço diferente e não podendo rodar mais de um serviço na mesma porta
+- Portas abaixo de 1024 são conhecidas como as portas conhecidas
+- TCP
+	- Telnet 23
+	- SSH 22
+	- SMTP 25
+	- HTTP 80
+	- FTP 20, 21
+	- DNS 53
+	- HTTPS 443
+	- POP3 110
+	- NTP 123
+	- IMAP4 143
+- UDP
+	- SNMP 161
+	- TFTP 69
+	- DNS 53
+	- DHCP 67
+	
 
 
 

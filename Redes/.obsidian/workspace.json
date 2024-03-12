@@ -1,49 +1,35 @@
 {
   "main": {
-    "id": "059af7e4026d5a56",
+    "id": "146d29aed0fdceaa",
     "type": "split",
     "children": [
       {
-        "id": "7bce68a84d70ee47",
+        "id": "3767b2f20028560a",
         "type": "tabs",
-        "dimension": 52.553626149131766,
         "children": [
           {
-            "id": "1ab9491196e01bea",
+            "id": "c48046f335451835",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Redes/Material Estudo Redes/CompTIA.Network+.N10-004.pdf"
-              }
-            }
-          },
-          {
-            "id": "7dde6edef4f41a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redes/Anotações Redes/Introduction to Internet Protocol (IP).md",
-                "mode": "source",
-                "source": false
+                "file": "Material Estudo Redes/CompTIA.Network+.N10-004.pdf"
               }
             }
           }
         ]
       },
       {
-        "id": "76b3941fb7b20f66",
+        "id": "4e577d850345bfc7",
         "type": "tabs",
-        "dimension": 47.446373850868234,
         "children": [
           {
-            "id": "f05ca62ac92cf083",
+            "id": "6f9b1809a03d8ccc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Anotações Redes/Introduction to Internet Protocol (IP).md",
+                "file": "Anotações Redes/Introduction to Internet Protocol (IP).md",
                 "mode": "source",
                 "source": false
               }
@@ -55,15 +41,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fa5e086f42d1f8b9",
+    "id": "5886b53e981d7225",
     "type": "split",
     "children": [
       {
-        "id": "25d2d370fc362fbe",
+        "id": "1aa6ffce24a482bd",
         "type": "tabs",
         "children": [
           {
-            "id": "5fb280632850ae9e",
+            "id": "323cf412512efb04",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -73,12 +59,12 @@
             }
           },
           {
-            "id": "c42165b65fd7cdfd",
+            "id": "a32e31219f14d72d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "path:Redes  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,35 +74,34 @@
             }
           },
           {
-            "id": "105cadd74c4cb049",
+            "id": "9c65316e0283d5f3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "1dd27301bdfa6624",
+    "id": "d37f5f5c98d22ee7",
     "type": "split",
     "children": [
       {
-        "id": "52dc10690a4cdf3e",
+        "id": "fe9e14cf1ebac8d8",
         "type": "tabs",
         "children": [
           {
-            "id": "df204d4ad3f7418c",
+            "id": "4f6558e1de869b82",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/Anotações Redes/Introduction to Internet Protocol (IP).md",
+                "file": "Anotações Redes/Introduction to Internet Protocol (IP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,19 +113,19 @@
             }
           },
           {
-            "id": "d153e34d6e3bb790",
+            "id": "8430f93e70917068",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/Anotações Redes/Introduction to Internet Protocol (IP).md",
+                "file": "Anotações Redes/Introduction to Internet Protocol (IP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c57fca06c64cb666",
+            "id": "d243616e1d651a02",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,12 +136,12 @@
             }
           },
           {
-            "id": "421b6a4eb05a1c1e",
+            "id": "1a6f9ee2ef9ef1b7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/Anotações Redes/Introduction to Internet Protocol (IP).md"
+                "file": "Anotações Redes/Introduction to Internet Protocol (IP).md"
               }
             }
           }
@@ -177,31 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c42165b65fd7cdfd",
+  "active": "6f9b1809a03d8ccc",
   "lastOpenFiles": [
-    "Redes/Material Estudo Redes/CompTIA.Network+.N10-004.pdf",
-    "Untitled",
-    "Pasted image 20240228213503.png",
-    "Redes/Anotações Redes/Introduction to Internet Protocol (IP).md",
-    "Pasted image 20240226234306.png",
-    "Pasted image 20240226234041.png",
-    "Redes/Anotações Redes/Current Ethernet Specifications.md",
-    "Redes/Anotações Redes/Introduction to Networks.md",
-    "Redes/Material Estudo Redes/QUENTIN DOCTER - COMPTIA A+ COMPLETE study GUIDE core 1 exam 220-1101 and core 2 exam 220-1102 (books-here.com).pdf",
-    "Redes/Anotações Redes/Open Systems Interconnection Specifications (OSI).md",
-    "Redes/Anotações Redes",
-    "Redes/Anotações Redes/Networking Topologies, Connectors, and Wiring Standards.md",
-    "Redes/Anotações Redes/Network Devices.md",
-    "Redes/Material Estudo Redes",
-    "Redes/Imagens Redes/Pasted image 20240216113112.png",
-    "Redes/Imagens Redes/Pasted image 20240216113118.png",
-    "Redes/Imagens Redes",
-    "Redes/Imagens Redes/Pasted image 20240222205444.png",
-    "Redes/Imagens Redes/Pasted image 20240221104021.png",
-    "Redes/Imagens Redes/Pasted image 20240221103340.png",
-    "Redes/Imagens Redes/Pasted image 20240221102746.png",
-    "Redes/Imagens Redes/Pasted image 20240221095056.png",
-    "Imagens",
-    "Introduction to Networks.md"
+    "Pasted image 20240311220458.png",
+    "Pasted image 20240311215958.png",
+    "Material Estudo Redes/CompTIA.Network+.N10-004.pdf"
   ]
 }
