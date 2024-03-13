@@ -108,7 +108,7 @@ Dynamic Host Configuration  Protocol (DHCP)
 - Informa porta de destino e de origem, dados, janela, etc
 ![[Pasted image 20240228213503.png]]
 
-## User Datagram Protocol (UDP)
+#### User Datagram Protocol (UDP)
 - A mesma coisa que TCP porem não fornece os mesmos recursos, é uma versão leve do TCP
 - Usa menos banda de internet e mais rápido
 - UDP não se importa com as ordens de envios de segmentos e após manda-lo, ele não verifica se chegou, ele apenas manda
@@ -117,7 +117,7 @@ Dynamic Host Configuration  Protocol (DHCP)
 ![[Pasted image 20240311215958.png]]
 ## Key Concepts of Host-to-Host Protocols
 ![[Pasted image 20240311220458.png]]
-## Port Numbers
+#### Port Numbers
 - TCP e UDP se comunicam com as outas camadas através de portas
 - Cada porta roda um serviço diferente e não podendo rodar mais de um serviço na mesma porta
 - Portas abaixo de 1024 são conhecidas como as portas conhecidas
@@ -137,7 +137,25 @@ Dynamic Host Configuration  Protocol (DHCP)
 	- TFTP 69
 	- DNS 53
 	- DHCP 67
-	
+## Internet Layer Protocols
+- A função dessa camada é rotear internet 
+#### Internet Protocol (IP)
+- IP sabe para qual host enviar os pacotes, a ordem dos pacotes e a rota
+- O IP recebe os segmentos da camada de transporte (Host-to-Host), contendo o ip de origem e de destino
+![[Pasted image 20240312215947.png]]
+#### Internet Control Message protocol (ICMP)
+- Protocolo de mensagem, pode ser usado para detectar problemas na rede
+- Ping usa protocolos ICMP para checar a integridade física e lógica da rede
+- Traceroute usa pacotes IP, ele consegue calcular através do tempo o caminho que aquele pacote está fazendo, podendo assim mapear todos os dispositivos por onde ele tá passando
+#### Address Resolution Protocol (ARP)
+- Esse protocolo encontra o endereço físico de um host através do IP
+- Basicamente ele faz um broadcast perguntando o endereço de cada um na rede pelo MAC que está procurando, o que corresponder o MAC ao endereço responde com ARP request
+#### Reverse Address Resolution Protocol (RARP)
+- Quando um host não sabe seu IP, ele envia um pacote RARP para um servidor RARP contendo seu endereço MAC, o servidor RARP sabe o IP de todos na rede pelo endereço MAC de cada um e responde para o host seu respectivo IP na rede
+#### Proxy Address Resolution Protocol (Proxy ARP)
+- Caso um roteador caia e outro assuma com outro IP, o proxy ARP ajuda os dispositivos na rede a se manterem conectados sem a necessidade de alterar os endereços ARP e IP's
+- O lado ruim é que a rede fica muito congestionada
+- O proxy ARP vem por padrão nos roteadores na cisco mas é possível desabilitar
 
 
 
