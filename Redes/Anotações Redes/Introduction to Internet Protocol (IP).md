@@ -92,7 +92,7 @@ O transmission Control Protocol/Internet Protocol (TCP/IP) foi criado pelo depar
 #### Domain Name Service (DNS)
 - Resolve hostnames
 
-Dynamic Host Configuration  Protocol (DHCP)
+#### Dynamic Host Configuration  Protocol (DHCP)
 - Atribui IP, subnet, máscara, domínio, gateway padrão e DNS aos hosts que se conectam a ele
 
 ## Host-to-Host Layer Protocols
@@ -156,8 +156,12 @@ Dynamic Host Configuration  Protocol (DHCP)
 - Caso um roteador caia e outro assuma com outro IP, o proxy ARP ajuda os dispositivos na rede a se manterem conectados sem a necessidade de alterar os endereços ARP e IP's
 - O lado ruim é que a rede fica muito congestionada
 - O proxy ARP vem por padrão nos roteadores na cisco mas é possível desabilitar
-
-
+## Data Encapsulation
+- Protocol Data Units (PDU) é o conjunto de dados a serem transmitidos para a camada adiante
+	- Na camada de transporte, ela é um segmento(Contém informação da porta de destino)
+	- Na camada de redes, o PDU passa a ser um pacote(Contém informação do IP de destino)
+	- Na camada de enlace o PDU passa a ser um frame(Contém informação do MAC de destino)
+	- Já na camada física o PDU passa a ser somente bits
 
 
 

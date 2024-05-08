@@ -11,11 +11,27 @@
             "id": "24b01aec960fd8c6",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Material Estudo Redes/CompTIA.Network+.N10-004.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b10abe77975222af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c571bb5298be75e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
-                "source": true
+                "file": "Anotações Redes/IP Subnetting, Troubleshooting and Introduction to NAT.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -69,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d37f5f5c98d22ee7",
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Material Estudo Redes/CompTIA.Network+.N10-004.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Material Estudo Redes/CompTIA.Network+.N10-004.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Material Estudo Redes/CompTIA.Network+.N10-004.pdf"
               }
             }
           }
@@ -146,14 +163,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f6558e1de869b82",
+  "active": "24b01aec960fd8c6",
   "lastOpenFiles": [
-    "Untitled.md",
-    "2024-04-09.md",
+    "Anotações Redes/IP Subnetting, Troubleshooting and Introduction to NAT.md",
     "Material Estudo Redes/CompTIA.Network+.N10-004.pdf",
     "Untitled 1.canvas",
-    "Untitled.canvas",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Anotações Redes/IP Addressing.md",
     "Anotações Redes/Introduction to Internet Protocol (IP).md",
+    "Anotações Redes/Open Systems Interconnection Specifications (OSI).md",
+    "Material Estudo Redes/QUENTIN DOCTER - COMPTIA A+ COMPLETE study GUIDE core 1 exam 220-1101 and core 2 exam 220-1102 (books-here.com).pdf",
+    "Anotações Redes/Current Ethernet Specifications.md",
+    "Untitled.md",
+    "2024-04-09.md",
+    "Untitled.canvas",
     "Pasted image 20240312215947.png",
     "Pasted image 20240311220458.png",
     "Pasted image 20240311215958.png"
