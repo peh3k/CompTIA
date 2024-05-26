@@ -26,12 +26,12 @@
         "dimension": 47.446373850868234,
         "children": [
           {
-            "id": "f05ca62ac92cf083",
+            "id": "07ecb023b923be2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Anotações Redes/Routing Protocols.md",
+                "file": "Redes/Anotações Redes/Wireless Technologies.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1dd27301bdfa6624",
@@ -167,17 +166,20 @@
   },
   "active": "1ab9491196e01bea",
   "lastOpenFiles": [
+    "Redes/Anotações Redes/Wireless Technologies.md",
+    "Redes/Material Estudo Redes/CompTIA.Network+.N10-004.pdf",
+    "Redes/Anotações Redes/IP Addressing.md",
+    "Redes/Anotações Redes/Introduction to Networks.md",
+    "Redes/Anotações Redes/Introduction to IP Routing.md",
     "Redes/Anotações Redes/Introduction to Internet Protocol (IP).md",
+    "Redes/Anotações Redes/Current Ethernet Specifications.md",
+    "Redes/Anotações Redes/Switchin and Virtual LANs (VLANs).md",
     "Redes/Anotações Redes/Routing Protocols.md",
     "nano.save",
-    "Redes/Material Estudo Redes/CompTIA.Network+.N10-004.pdf",
-    "Redes/Anotações Redes/Introduction to IP Routing.md",
     "Untitled",
     "Pasted image 20240228213503.png",
     "Pasted image 20240226234306.png",
     "Pasted image 20240226234041.png",
-    "Redes/Anotações Redes/Current Ethernet Specifications.md",
-    "Redes/Anotações Redes/Introduction to Networks.md",
     "Redes/Material Estudo Redes/QUENTIN DOCTER - COMPTIA A+ COMPLETE study GUIDE core 1 exam 220-1101 and core 2 exam 220-1102 (books-here.com).pdf",
     "Redes/Anotações Redes/Open Systems Interconnection Specifications (OSI).md",
     "Redes/Anotações Redes",
