@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Anotações Redes/Wireless Technologies.md",
+                "file": "Redes/Anotações Redes/Authentication and Access Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1dd27301bdfa6624",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/Material Estudo Redes/CompTIA.Network+.N10-004.pdf",
+                "file": "Redes/Anotações Redes/Authentication and Access Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/Material Estudo Redes/CompTIA.Network+.N10-004.pdf",
+                "file": "Redes/Anotações Redes/Authentication and Access Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/Material Estudo Redes/CompTIA.Network+.N10-004.pdf"
+                "file": "Redes/Anotações Redes/Authentication and Access Control.md"
               }
             }
           }
@@ -164,10 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ab9491196e01bea",
+  "active": "07ecb023b923be2d",
   "lastOpenFiles": [
-    "Redes/Anotações Redes/Wireless Technologies.md",
     "Redes/Material Estudo Redes/CompTIA.Network+.N10-004.pdf",
+    "Redes/Anotações Redes/Authentication and Access Control.md",
+    "Redes/Anotações Redes/Wireless Technologies.md",
     "Redes/Anotações Redes/IP Addressing.md",
     "Redes/Anotações Redes/Introduction to Networks.md",
     "Redes/Anotações Redes/Introduction to IP Routing.md",
