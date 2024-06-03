@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Anotações/2 - Cybersecurity Threat Landscape.md",
+                "file": "Security/Material de estudo/security +.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Anotações/2 - Cybersecurity Threat Landscape.md",
+                "file": "Security/Material de estudo/security +.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Anotações/2 - Cybersecurity Threat Landscape.md"
+                "file": "Security/Material de estudo/security +.pdf"
               }
             }
           }
@@ -165,10 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07ecb023b923be2d",
+  "active": "1ab9491196e01bea",
   "lastOpenFiles": [
-    "Security/Material de estudo/security +.pdf",
     "Security/Anotações/2 - Cybersecurity Threat Landscape.md",
+    "Security/Material de estudo/security +.pdf",
     "Security/Anotações/1 - Today's Security Professional.md",
     "Security/Material de estudo/boleto.pdf",
     "Redes/Anotações Redes/Network Threats and Mitigation.md",

@@ -71,3 +71,32 @@ Meios pelos quais atacantes podem coletar ou invadir organizações, para isso e
 - Atacantes verificam fornecedores de hardware, software e serviços e procuram vulnerabilidades nesses serviços para atacar indiretamente as organizações
 - Atacantes podem atacar provedores
 - Managed service providers (MSPs)
+## Threat Data and Intelligence
+- Construir um programa de inteligência contra ameaças
+- Análise preditivas
+- Open source intelligence (OSINT), informações que estão públicas
+- Indicators of compromise (IoCs), são assinaturas ou rastros deixados pelos atacantes em arquivos ou em códigos
+## Open Source Intelligence
+- https://www.senki.org/operators-security-toolkit/open-source-threat-intelligence-feeds/
+- https://cybersecurity.att.com/open-threat-exchange
+- https://www.misp-project.org/feeds/
+## Proprietary and Closed-Source Intelligence
+- Organizações privadas fazem suas próprias coletas de informações usando ferramentas próprias
+- https://threatmap.checkpoint.com/
+## Assessing Threat Intelligence
+- A informação é precisa?
+- A informação é confiável?
+- A informação é relevante?
+- As inteligências de ameaças possuem um nível de confiança
+	- Confirmed(90-100)
+	- Probable(70-89)
+	- Possible(50-69)
+	- Doubtful(30-49)
+	- Improbable(2-29)
+	- Discredited(1)
+## Threat Indicator Management and Exchange
+Indicadores que padronizam os níveis de confiança
+- Structured Threat Information eXpression (STIX) é um tipo de padronização de ameaças feito em XML que contém informações de ameaças
+## Information Sharing Organizations
+- Organizações que compartilham detalhes de ameaças ou dados
+- ISAC(Information Sharing and Analysis Centers)
