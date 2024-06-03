@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Anotações/2 - Cybersecurity Threat Landscape.md",
+                "file": "Security/Anotações/3 - Malicious Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Material de estudo/security +.pdf",
+                "file": "Security/Anotações/3 - Malicious Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Material de estudo/security +.pdf",
+                "file": "Security/Anotações/3 - Malicious Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Material de estudo/security +.pdf"
+                "file": "Security/Anotações/3 - Malicious Code.md"
               }
             }
           }
@@ -165,10 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ab9491196e01bea",
+  "active": "07ecb023b923be2d",
   "lastOpenFiles": [
-    "Security/Anotações/2 - Cybersecurity Threat Landscape.md",
     "Security/Material de estudo/security +.pdf",
+    "Security/Anotações/3 - Malicious Code.md",
+    "Security/Anotações/2 - Cybersecurity Threat Landscape.md",
     "Security/Anotações/1 - Today's Security Professional.md",
     "Security/Material de estudo/boleto.pdf",
     "Redes/Anotações Redes/Network Threats and Mitigation.md",
