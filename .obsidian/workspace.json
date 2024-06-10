@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Anotações/4 - Social Engineering and Password Attacks.md",
+                "file": "Security/Anotações/5 - Security Assessment and Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Material de estudo/security +.pdf",
+                "file": "Security/Anotações/5 - Security Assessment and Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Material de estudo/security +.pdf",
+                "file": "Security/Anotações/5 - Security Assessment and Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Material de estudo/security +.pdf"
+                "file": "Security/Anotações/5 - Security Assessment and Testing.md"
               }
             }
           }
@@ -165,10 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ab9491196e01bea",
+  "active": "07ecb023b923be2d",
   "lastOpenFiles": [
-    "Security/Anotações/4 - Social Engineering and Password Attacks.md",
     "Security/Material de estudo/security +.pdf",
+    "Security/Anotações/5 - Security Assessment and Testing.md",
+    "Security/Anotações/4 - Social Engineering and Password Attacks.md",
     "Security/Anotações/3 - Malicious Code.md",
     "Security/Anotações/2 - Cybersecurity Threat Landscape.md",
     "Security/Anotações/1 - Today's Security Professional.md",
