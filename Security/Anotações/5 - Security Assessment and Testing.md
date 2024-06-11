@@ -135,6 +135,57 @@ Ferramentas que analisam softwares e buscam vulnerabilidades comuns
 - Se o scope metric é changed (C), soma o score do impacto e a exploitability e depois multiplica por 1.08
 - O valor máximo do score é 10, caso passe de 10 precisa ser definido para 10
 - Existem sites para calcular automaticamente o base score(CVSS calculator), um deles é o NIST
+#### Categorizing CVSS Base Scores
+- 0: None
+- 0.1 - 3.9: Low
+- 4.0-6.9: Medium
+- 7.0-8.9: High
+- 9.0-10.0: Critical
+## Confirmation of Scan Results
+#### False Positives
+- Scanners as vezes causam falsos positivos
+- Quando os scanners acham corretamente uma vulnerabilidade é chamado de *true positive report*
+- Administradores de banco de dados, engenheiros de sistemas, técnicos de redes, desenvolvedores conseguem avaliar se o report é falso positivo
+#### Reconciling Scan Results with Other Data Sources
+- Security information and event management (SIEM) são sistemas que correlacionam vários logs de scanners diferentes e gera um output único
+## Vulnerability Classification
+Existem vários tipos de vulnerabilidades que são escaneadas por scanners de vulnerabilidades e será abordado adiante
+#### Patch Management
+- Aplicar patch de segurança (atualizações pequenas)
+- Programas de gerenciamento de patch fazem verificações periódicas a fim de encontrar problemas de patches(versões antigas etc)
+#### Legacy Platforms
+- Plataformas que foram descontinuadas e que não recebem mais suporte do fornecedor
+#### Weak Configurations
+- Usar configurações padrões 
+- Credenciais padrões
+- Deixar portas de serviços abertas
+- Deixar permissões abertas
+#### Insecure Protocols
+- Telnet pode ser substituído pelo SSH
+- FTP pode ser substituído pelo SFTP e FTPS
+#### Weak Encryption
+- Quando você vai implementar a criptografia é necessário apenas duas coisas, o algorítimo da criptografia e a chave para usar nesse algorítimo
+## Penetration Testing
+- Teste de penetração tem como o objetivo achar falhas em um sistema como se fosse um ataque real
+- É legalizado e autorizado
+- Threat Hunting
+## Penetration Test Types
+- Phisical penetration testing
+- Offensive penetration testing: Achar exploits em sistemas
+- Defensive penetration testing
+- Integrated penetration testing: Combina os aspectos do teste ofensivo e defensivo
+Os testes podem ser feitos em algumas modalidades:
+- Known enviroment onde o atacante tem acesso as todas as informações do sistema previamente
+- Unknown environmente onde o atacante não sabe nada do sistema e precisa achar as informações manualmente
+- Partially known environment onde o atacante sabe apenas algumas informações
+## Rules of Engagement (RoE)
+- A *timeline* em que o ataque pode ser feito, ou seja, o período pois existem casos em que os ataques podem atrapalhar o sistema de produção, por isso deve ser feito fora da hora de produção
+- Quais lugares, sistemas, aplicações e outros *targets* podem ser atacados
+- *Data handling requiriments* significa que o atacante precisa assinar um contrato para não fazer nada com os dados da empresa além dos testes
+- Quais comportamentos são esperados do alvo, se ele irá bloquear ou não o ataque etc
+- Quais recursos estão comprometidos com o teste
+- *Legal concerns*, tudo o que for feito deve seguir as leis
+- Quando e como as comunicações irão ser feita, isto é, quando o atacante irá atualizar a empresa, semanalmente, diariamente etc
 
 
 
