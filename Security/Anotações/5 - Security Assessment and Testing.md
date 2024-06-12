@@ -186,7 +186,43 @@ Os testes podem ser feitos em algumas modalidades:
 - Quais recursos estão comprometidos com o teste
 - *Legal concerns*, tudo o que for feito deve seguir as leis
 - Quando e como as comunicações irão ser feita, isto é, quando o atacante irá atualizar a empresa, semanalmente, diariamente etc
+## Reconnaissance
+Antes de começar um ataque é necessário coletar informações sobre o alvo, existem dois tipos de coleta
+- Passiva, onde o atacante pega informações sem ser necessariamente do alvo propriamente dito, pode usar enumeração DNS, WHOIS etc
+- Direta, onde o atacante busca informações diretamente com o alvo, busca de portas, footprinting(saber o SO e a aplicação por trás do alvo)
+- *War driving* é quando o atacante vai próximo ao local do alvo com um carro equipado com antenas potentes para tentar se conectar com a rede interna
+- *War flying* é o mesmo que o *war driving* porém usam veículos aéreos, drones por exemplo, esses veículos aéreos são chamados de UAVs
+## Running the Test
+- Acesso inicial
+- Escalar privilégios
+- *Pivoting* ou movimento lateral, que é tentar afetar outras máquina na rede além do alvo
+- Por fim estabilizar a persistência, normalmente feta usando *backdoors*
+## Vulnerability Life Cycle
+1. Identification(Identificar uma falha)
+2. Analysis(Analisar a falha)
+3. Response and Remediation(Tratar essa falha)
+4. Validation of Remediation(Reescanear o sistema para saber se a falha foi eliminada)
+5. Reporting(Documentar)
 
-
+1. a x c
+2. b x d
+3. c ok
+4. a x c
+5. a ok
+6. b ok
+7. a x c
+8. a ok
+9. b ok
+10. a ok
+11. a ok
+12. c ok
+13. d ok
+14. c ok
+15. c x b
+16. c ok
+17. a x c
+18. b ok
+19. b ok
+20. d x c
 
 
