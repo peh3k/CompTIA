@@ -6,7 +6,6 @@
       {
         "id": "7bce68a84d70ee47",
         "type": "tabs",
-        "dimension": 52.553626149131766,
         "children": [
           {
             "id": "1ab9491196e01bea",
@@ -14,24 +13,23 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Security/Material de estudo/security +.pdf"
+                "file": "Security/Material de estudo/CEH v10 Certified Ethical Hacker Study Guide by Ric Messier.pdf"
               }
             }
           }
         ]
       },
       {
-        "id": "76b3941fb7b20f66",
+        "id": "4c1eb73c451c7ec1",
         "type": "tabs",
-        "dimension": 47.446373850868234,
         "children": [
           {
-            "id": "07ecb023b923be2d",
+            "id": "00d5437554e15691",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Anotações/5 - Security Assessment and Testing.md",
+                "file": "Ethical Hacking/4 - Footprinting and Reconnaissance.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Anotações/5 - Security Assessment and Testing.md",
+                "file": "Ethical Hacking/4 - Footprinting and Reconnaissance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Anotações/5 - Security Assessment and Testing.md",
+                "file": "Ethical Hacking/4 - Footprinting and Reconnaissance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Anotações/5 - Security Assessment and Testing.md"
+                "file": "Ethical Hacking/4 - Footprinting and Reconnaissance.md"
               }
             }
           }
@@ -165,9 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07ecb023b923be2d",
+  "active": "00d5437554e15691",
   "lastOpenFiles": [
+    "Security/Material de estudo/CEH v10 Certified Ethical Hacker Study Guide by Ric Messier.pdf",
+    "Ethical Hacking/4 - Footprinting and Reconnaissance.md",
+    "Pasted image 20240614162149.png",
+    "Pasted image 20240614144734.png",
+    "Untitled.md",
+    "Ethical Hacking",
     "Security/Material de estudo/security +.pdf",
+    "Security/Anotações/6 - Application Security.md",
     "Security/Anotações/5 - Security Assessment and Testing.md",
     "Security/Anotações/4 - Social Engineering and Password Attacks.md",
     "Security/Anotações/3 - Malicious Code.md",
@@ -176,7 +181,6 @@
     "Security/Material de estudo/boleto.pdf",
     "Redes/Anotações Redes/Network Threats and Mitigation.md",
     "Security/Anotações",
-    "Untitled",
     "Redes/Material Estudo Redes/CompTIA.Network+.N10-004.pdf",
     "Security/Material de estudo",
     "Security",
@@ -195,7 +199,6 @@
     "Pasted image 20240226234041.png",
     "Redes/Material Estudo Redes/QUENTIN DOCTER - COMPTIA A+ COMPLETE study GUIDE core 1 exam 220-1101 and core 2 exam 220-1102 (books-here.com).pdf",
     "Redes/Anotações Redes/Open Systems Interconnection Specifications (OSI).md",
-    "Redes/Anotações Redes",
     "Redes/Anotações Redes/Networking Topologies, Connectors, and Wiring Standards.md",
     "Redes/Anotações Redes/Network Devices.md",
     "Redes/Imagens Redes/Pasted image 20240216113112.png",
@@ -203,8 +206,6 @@
     "Redes/Imagens Redes/Pasted image 20240222205444.png",
     "Redes/Imagens Redes/Pasted image 20240221104021.png",
     "Redes/Imagens Redes/Pasted image 20240221103340.png",
-    "Redes/Imagens Redes/Pasted image 20240221102746.png",
-    "Redes/Imagens Redes/Pasted image 20240221095056.png",
     "Introduction to Networks.md"
   ]
 }
