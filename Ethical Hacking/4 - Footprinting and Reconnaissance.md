@@ -25,5 +25,16 @@
 `# dig axfr dominio.com`
 - Descobrir mais detalhes sobre a infraestrutura da rede
 - A maioria dos DNS não permitem fazer transferência de zona, para isso é usado o método de brute force usando o dnsrecon
-## Dnsrecon
+## Dnsrecon (bruteforce)
 `# dnsrecon -d dominio.com -D wordlist.txt -t brt`
+## Passive Reconnaissance
+- r3con site para coletar todas as informações de um domínio
+## Mirroring Sites with httrack
+- Quando voce quer analisar um site offline, usa o httrack
+## Google Hacking
+- inurl
+- intext
+- site
+- filetype
+## IoT
+- Shodan
