@@ -68,3 +68,32 @@
 - **Timing Attacks**: O atacante observa o tempo que um computador leva para criptografar ou descriptografar, isso pode dar indicações se uma key é grande ou pequena
 - **Power Analysis Attacks**: Parecido com timing attacks porém usando o consumo de energia
 - **Fault analysis Attacks**: O atacante induz o sistema de criptografia ao erro a fim de obter outputs úteis
+## Earlier Cryptographic Systems
+- Todos os sistemas antigos são baseados na criptografia simétrica
+- Os sistemas funcionavam via alfabeto e não binário como hoje
+## Caesar Cipher
+- Trocam letras do alfabeto por outras letras de outro alfabeto
+- Turno de 3 (shift 3)
+- Muito fácil de quebrar
+![[Pasted image 20240811211709.png]]
+## Simple Substitution Cipher
+- É o caeser cipher só que aprimorado
+- Permuta de letras, possui 4x10^26 possibildiades
+- A escolha pode ser feita aleatoriamente 
+- Computadores de hoje não conseguem quebrar esse sistema por conta da quantidade de possibilidade
+## Monoalphabetic and Polyalphabetic Cipher
+- Monoalphabetic sempre o plaintex A será igual ao ciphertext B, não tem como mudar, igual nos casos do Caesar cipher e simple substitution cipher
+- Polyalphabetic é possivel que a letra A possa significar mais de uma outra letra, por exemplo a letra A pode ser a letra O e a letra H ao mesmo tempo
+## Playfair Cipher
+- Forme uma grid 5x5 do alfabeto
+- Escolhe uma *key*
+- A key deve ser colocada em primeiro lugar na grid
+- Se a key tiver letras que se repetem, a letra que se repetir é ignorada
+- Abaixo está um exemplo da grid com a *key* "tutorial"
+![[Pasted image 20240811213240.png]]
+## Vigenere Cipher
+- Converte a letra em seu respectivo numero que seria a posição que elas estão no alfabeto, ex letra C é 3
+## One-time Pad
+- A key é gerada aleatoriamente
+- A key tem o mesmo tamanho do plaintext
+
